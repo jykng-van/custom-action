@@ -1,0 +1,8 @@
+name: 'Some Custom Action'
+description: 'Just says Hi!'
+runs:
+   using: 'docker'
+   image: 'Dockerfile'
+branding:
+   icon: 'gift'
+   color: 'red'
